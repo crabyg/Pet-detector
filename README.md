@@ -11,8 +11,6 @@
 ## Poster
 ![도로 안전을 위한 운전석 반려동물 동승 탐지_포스터_1](https://github.com/crabyg/Pet-detector/assets/105999203/82fdce4a-b7a4-4daa-b756-41020e20dd12)
 
-## Getting Started
-temp
 
 ## Usage
 ```bash
